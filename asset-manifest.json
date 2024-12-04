@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uselayouteffect_example/static/css/main.f855e6bc.css",
+    "main.js": "/uselayouteffect_example/static/js/main.deb686db.js",
+    "index.html": "/uselayouteffect_example/index.html",
+    "main.f855e6bc.css.map": "/uselayouteffect_example/static/css/main.f855e6bc.css.map",
+    "main.deb686db.js.map": "/uselayouteffect_example/static/js/main.deb686db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.deb686db.js"
+  ]
+}
